@@ -58,7 +58,7 @@ MANUAL CPU CORE
 
 *****
 
-Set the local IP of your proxy at the password field of the HiveOS Fligh Sheet if you want to use proxy.  
+Set the local IP of your proxy at the password field of the HiveOS Flight Sheet if you want to use proxy.  
 Leave empty the password field if you dont use proxy.  
 You can use local proxy if you have many graphic cards at the same local network.  
 You dont need to use proxy if you dont have too many graphic cards at the same local network.
