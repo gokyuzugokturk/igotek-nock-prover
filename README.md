@@ -68,7 +68,7 @@ USING PROXY:
 
 *****
 
-Wallet: %WAL%
+Wallet: %WAL%  
 Pool URL: GOLDEN_MINER
 
 *****
