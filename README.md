@@ -85,7 +85,7 @@ DevFee % 1
 
 * This miner works at HiveOS !
 * There is another release for Vast.ai
-* Check [vast.ai](https://github.com/gokyuzugokturk/igotek-nock-prover-vast.ai) for Vast.ai release.
+* Check [here](https://github.com/gokyuzugokturk/igotek-nock-prover-vast.ai) for Vast.ai release.
 
 
 
