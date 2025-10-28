@@ -1,6 +1,7 @@
 Use this NOCK Prover for mining at goldenminer.net
 
-Video Tutorial: https://youtu.be/CLJTqaLlNoA
+Video Tutorial: https://youtu.be/CLJTqaLlNoA  
+Discord: https://discord.gg/w6GuBsWHQa
 
 WALLET CREATION    
 ![--gpu](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_000.png)
