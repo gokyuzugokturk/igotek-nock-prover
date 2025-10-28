@@ -3,6 +3,12 @@ Use this NOCK Prover for mining at goldenminer.net
 Video Tutorial: https://youtu.be/CLJTqaLlNoA  
 Discord: https://discord.gg/w6GuBsWHQa
 
+*****
+
+Always use the latest release !
+
+*****
+
 WALLET CREATION    
 ![wallet](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_000.png)
 
