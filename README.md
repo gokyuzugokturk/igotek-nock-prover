@@ -4,7 +4,7 @@ Video Tutorial: https://youtu.be/CLJTqaLlNoA
 Discord: https://discord.gg/w6GuBsWHQa
 
 WALLET CREATION    
-![--gpu](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_000.png)
+![wallet](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_000.png)
 
 *****
 
