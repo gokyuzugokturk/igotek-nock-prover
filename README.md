@@ -68,9 +68,9 @@ USING PROXY:
 
 *****
 
-![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_004.png)
+![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_004.webp)
 
-![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_005.png)
+![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_005.webp)
 
 *****
 
