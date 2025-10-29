@@ -95,6 +95,7 @@ Note: This miner only works at goldenminer.net
 
 DevFee % 1
 
+* Only GPU mining.
 * This miner works at HiveOS !
 * This miner uses the latest golden-miner-pool-prover !
 * There is another release for Vast.ai
