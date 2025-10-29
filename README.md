@@ -37,17 +37,14 @@ Dont set 15 core or more for each GPU because you will get error if you do it.
 High-end CPUs could get error: (reason: out of memory - reason: driver shutting down)  
 Please set --thread-per-card value manually if you see this error.
 
-This CPU has 20 CORE  
+This CPU has 20 CORE You can use this CPU for mining.  
 ![20xCore](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/20xCore.png)  
-You can use this CPU for mining.
 
-This CPU has 8 CORE  
+This CPU has 8 CORE You can use this CPU for mining.  
 ![8xCore](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/8xCore.png)  
-You can use this CPU for mining.
 
-This CPU has 2 CORE  
+This CPU has 2 CORE You cant use this CPU for mining!  
 ![2xCore](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/2xCore.png)  
-You cant use this CPU for mining!
 
 *****
 
