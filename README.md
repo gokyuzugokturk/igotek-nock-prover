@@ -91,9 +91,15 @@ Pool URL: GOLDEN_MINER
 
 *****
 
-Note: This miner only works at goldenminer.net
+No Dev Fee  
+Just type --fee 5 at extra config of the HiveOS flight sheet if you want to donate.  
+Buy me a beer for my efforts !
 
-DevFee % 1
+![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/fee.png)
+
+*****
+
+Note: This miner only works at goldenminer.net
 
 * Only GPU mining.
 * This miner works at HiveOS !
