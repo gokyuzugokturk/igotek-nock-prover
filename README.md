@@ -68,7 +68,7 @@ You can set CPU core for each GPU using by --threads-per-card 7 at extra config 
 Leave empty the extra config if you dont know what to do.
 
 MANUAL CPU CORE  
-![--thread-per-card](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_001.png)
+![--thread-per-card](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_002.png)
 
 *****
 
