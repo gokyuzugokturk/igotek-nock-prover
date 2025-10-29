@@ -12,7 +12,7 @@ Miner Installation URL: https://github.com/gokyuzugokturk/igotek-nock-prover-hiv
 *****
 
 WALLET CREATION    
-![wallet](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_000.png)
+![wallet](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_000.png)
 
 *****
 
@@ -38,15 +38,15 @@ High-end CPUs could get error: (reason: out of memory - reason: driver shutting 
 Please set --thread-per-card value manually if you see this error.
 
 This CPU has 20 CORE  
-![20xCore](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/20xCore.png)  
+![20xCore](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/20xCore.png)  
 You can use this CPU for mining.
 
 This CPU has 8 CORE  
-![8xCore](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/8xCore.png)  
+![8xCore](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/8xCore.png)  
 You can use this CPU for mining.
 
 This CPU has 2 CORE  
-![2xCore](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/2xCore.png)  
+![2xCore](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/2xCore.png)  
 You cant use this CPU for mining!
 
 *****
@@ -59,7 +59,7 @@ Prover will only use your pointing graphic cards.
 So, you can use for mining another coins with free graphic cards at a one Flight Sheet.  
 
 SELECTING GPU  
-![--gpu](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_001.png)
+![--gpu](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_001.png)
 
 *****
 
@@ -68,7 +68,7 @@ You can set CPU core for each GPU using by --threads-per-card 7 at extra config 
 Leave empty the extra config if you dont know what to do.
 
 MANUAL CPU CORE  
-![--thread-per-card](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_002.png)
+![--thread-per-card](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_002.png)
 
 *****
 
@@ -78,13 +78,13 @@ You can use local proxy if you have many graphic cards at the same local network
 You dont need to use proxy if you dont have too many graphic cards at the same local network.
 
 USING PROXY:  
-![proxy](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_003.png)
+![proxy](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_003.png)
 
 *****
 
-![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_004.webp)
+![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_004.webp)
 
-![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/hiveos_flighsheet_005.webp)
+![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_005.webp)
 
 *****
 
