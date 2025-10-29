@@ -7,6 +7,8 @@ Discord: https://discord.gg/w6GuBsWHQa
 
 Always use the latest release !
 
+iner Installation URL: https://github.com/gokyuzugokturk/igotek-nock-prover-hiveos/releases/download/iGoTeK_Nock_Prover_for_HiveOS/nock-1.8.tar.gz
+
 *****
 
 WALLET CREATION    
