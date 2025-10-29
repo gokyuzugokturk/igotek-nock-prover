@@ -79,7 +79,8 @@ USING PROXY:
 
 *****
 
-![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_004.webp)
+Hashrate informations  
+![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_004.png)
 
 ![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_005.webp)
 
