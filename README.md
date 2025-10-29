@@ -38,11 +38,11 @@ High-end CPUs could get error: (reason: out of memory - reason: driver shutting 
 Please set --thread-per-card value manually if you see this error.
 
 This CPU has 20 CORE  
-![20xCore](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/20xCore.png)
+![20xCore](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/20xCore.png)  
 You can use this CPU for mining.
 
 This CPU has 8 CORE  
-![8xCore](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/8xCore.png)
+![8xCore](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/8xCore.png)  
 You can use this CPU for mining.
 
 This CPU has 2 CORE  
