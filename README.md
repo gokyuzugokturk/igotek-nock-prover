@@ -102,6 +102,11 @@ Buy me a beer for my efforts !
 
 *****
 
+RTX4080 SUPER
+![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/RTX4080SUPER.png)
+
+*****
+
 Note: This miner only works at goldenminer.net
 
 * Only GPU mining.
