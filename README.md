@@ -87,6 +87,8 @@ Hashrate informations
 
 ![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_005.webp)
 
+![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/RTX4080SUPER.png)
+
 *****
 
 Wallet: %WAL%  
@@ -99,11 +101,6 @@ Just type --fee 5 at extra config of the HiveOS flight sheet if you want to dona
 Buy me a beer for my efforts !
 
 ![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/fee.png)
-
-*****
-
-RTX4080 SUPER
-![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/RTX4080SUPER.png)
 
 *****
 
