@@ -89,6 +89,9 @@ RTXA4000 16GB
 RTXA2000 6GB  
 ![RTXA2000](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/RTXA2000.png)
 
+RTX3060 12GB  
+![RTX3060](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/RTX3060.png)
+
 Please share your results of v2.5
 
 BENCHMARKS of v2.4
