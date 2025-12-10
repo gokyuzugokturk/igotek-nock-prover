@@ -83,7 +83,11 @@ USING PROXY:
 *****
 
 BENCHMARKS of v2.5
+RTXA4000 16GB  
 ![RTXA4000](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/RTXA4000.png)
+
+RTXA2000 6GB  
+![RTXA2000](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/RTXA2000.png)
 
 Please share your results of v2.5
 
