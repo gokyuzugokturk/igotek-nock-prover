@@ -82,7 +82,9 @@ USING PROXY:
 
 *****
 
-Hashrate informations  
+Hashrate informations 
+![RTXA4000](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/RTXA4000.png)
+
 ![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_004.png)
 
 ![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_005.webp)
