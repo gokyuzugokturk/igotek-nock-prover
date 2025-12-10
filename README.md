@@ -82,9 +82,12 @@ USING PROXY:
 
 *****
 
-Hashrate informations 
+BENCHMARKS of v2.5
 ![RTXA4000](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/RTXA4000.png)
 
+Please share your results of v2.5
+
+BENCHMARKS of v2.4
 ![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_004.png)
 
 ![final](https://github.com/gokyuzugokturk/igotek-nock-prover/blob/main/img/hiveos_flighsheet_005.webp)
