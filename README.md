@@ -7,7 +7,7 @@ Discord: https://discord.gg/w6GuBsWHQa
 
 Always use the latest release !
 
-Miner Installation URL: https://github.com/gokyuzugokturk/igotek-nock-prover-hiveos/releases/download/nock/nock-2.5.tar.gz
+Miner Installation URL: https://github.com/gokyuzugokturk/igotek-nock-prover-hiveos/releases/download/v2.6/nock-2.6.tar.gz
  
 You need to register your PUBKEY at goldenminer.net and create your password !
 
